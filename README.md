@@ -33,7 +33,6 @@ VoiceDraw, sesli komutlarınızı yazıya döküp, bu metinlerden yapay zeka ile
 - `recorder.py` : Ses kaydı modülü
 - `transcriptor.py` : Ses-metin dönüştürücü modül
 - `painter.py` : Görsel üretim modülü
-- `code/` : Alternatif nesne yönelimli modül klasörü
 - `icons/` : Uygulama ikonları ve görselleri
 
 ## 🖋️ Notlar
